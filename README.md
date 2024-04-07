@@ -5,3 +5,6 @@ The subjects list in our paper is in an excel fiel: Experiment data from ADNI.xl
 The annotated data info is in Info of annoated data.xlsx
 
 The data and codes will be uploaded soon.
+
+![paper](https://github.com/calliegao/GeoLongSeg/assets/47969752/928317f1-24a1-4467-bda5-36091ca95a69)
+
